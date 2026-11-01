@@ -1,0 +1,6 @@
+{
+  "name": "StatMate",
+  "description": "Professional native Android statistical calculator with local Room storage, step-by-step mathematical breakdowns, and comprehensive statistical analysis tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
